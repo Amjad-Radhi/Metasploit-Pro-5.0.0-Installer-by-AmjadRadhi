@@ -1,5 +1,7 @@
 # Metasploit-Pro-5.0.0-Installer-by-AmjadRadhi
-Metasploit-Pro-2026-free for kali-linux and other linux  distro
+
+ 
+Metasploit-Pro-2026-free  pre-activated  for kali-linux and other linux  distro
 
 
 
